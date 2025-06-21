@@ -61,7 +61,7 @@ Do you have questions, or need help with a project, or just want to chat? Reach 
 ---
 
 ## 📈 Fun GitHub Stats:
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Johanlieb34&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rick-sanchez-d&theme=radical)  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rick-sanchez-d.rick-sanchez-d)
 
 ---
