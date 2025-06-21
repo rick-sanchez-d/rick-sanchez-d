@@ -49,7 +49,7 @@ Do you have questions, or need help with a project, or just want to chat? Reach 
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johanlieb34&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rick-sanchez-d&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rick-sanchez-d4&layout=compact&theme=radical)
 
 ---
